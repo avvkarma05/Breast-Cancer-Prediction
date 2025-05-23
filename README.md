@@ -18,13 +18,3 @@ The notebook covers:
 ## 📊 Dataset
 
 The dataset includes various medical features related to breast cancer diagnosis. It is assumed to be clean and ready for analysis.
-
-## 📌 How to Use
-
-1. Clone this repository or download the files.
-2. Open the notebook in Jupyter Notebook or VS Code with Jupyter support.
-3. Run each cell in order to reproduce the results.
-
-```bash
-git clone https://github.com/your-username/breast-cancer-prediction.git
-cd breast-cancer-prediction
