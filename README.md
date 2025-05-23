@@ -18,3 +18,9 @@ The notebook covers:
 ## 📊 Dataset
 
 The dataset includes various medical features related to breast cancer diagnosis. It is assumed to be clean and ready for analysis.
+
+## 🚀 Requirements
+Pandas
+NumPy
+Scikit-learn
+Matplotlib / Seaborn
